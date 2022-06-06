@@ -1,0 +1,12 @@
+{
+  "name": "javascript-poo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hbeanjarah/javascript-poo.git",
+  "author": "Be Anjara Houssen <hbeanjarahoussen@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node"
+  }
+}
